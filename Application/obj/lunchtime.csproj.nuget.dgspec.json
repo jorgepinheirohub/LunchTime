@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jorge\\Source\\jorgepinheirohub\\lunchtime\\lunchtime.csproj": {}
+    "C:\\Users\\jorge\\Source\\Jorgepinheirohub\\LunchTime\\Application\\lunchtime.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jorge\\Source\\jorgepinheirohub\\lunchtime\\lunchtime.csproj": {
+    "C:\\Users\\jorge\\Source\\Jorgepinheirohub\\LunchTime\\Application\\lunchtime.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jorge\\Source\\jorgepinheirohub\\lunchtime\\lunchtime.csproj",
+        "projectUniqueName": "C:\\Users\\jorge\\Source\\Jorgepinheirohub\\LunchTime\\Application\\lunchtime.csproj",
         "projectName": "lunchtime",
-        "projectPath": "C:\\Users\\jorge\\Source\\jorgepinheirohub\\lunchtime\\lunchtime.csproj",
+        "projectPath": "C:\\Users\\jorge\\Source\\Jorgepinheirohub\\LunchTime\\Application\\lunchtime.csproj",
         "packagesPath": "C:\\Users\\jorge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jorge\\Source\\jorgepinheirohub\\lunchtime\\obj\\",
+        "outputPath": "C:\\Users\\jorge\\Source\\Jorgepinheirohub\\LunchTime\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "microsoft.entityframeworkcore.sqlserver": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

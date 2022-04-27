@@ -1,6 +1,6 @@
 using System;
 
-namespace lunchtime.Entities
+namespace Application.Entities
 {
     public class Restaurant
     {
@@ -9,5 +9,7 @@ namespace lunchtime.Entities
         public string Name { get; set; }
 
         public int Votes { get; set; }
+
+        public void Alterar(Restaurant restaurant) => Name = restaurant.Name;
     }
 }
