@@ -38,3 +38,4 @@ C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\obj\Debug\netcoreap
 C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\obj\Debug\netcoreapp3.1\lunchtime.dll
 C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\obj\Debug\netcoreapp3.1\lunchtime.pdb
 C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\obj\Debug\netcoreapp3.1\lunchtime.genruntimeconfig.cache
+C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

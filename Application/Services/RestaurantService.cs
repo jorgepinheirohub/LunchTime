@@ -1,9 +1,9 @@
 using Application.Context;
 using Application.Entities;
 using Application.Services.Interfaces;
+using Microsoft.EntityFrameworkCore;
 using System.Threading.Tasks;
 using System;
-using Microsoft.EntityFrameworkCore;
 
 namespace Application.Services
 {
