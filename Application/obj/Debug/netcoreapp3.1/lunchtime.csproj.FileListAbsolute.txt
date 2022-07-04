@@ -12,6 +12,7 @@ C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\bin\Debug\netcoreap
 C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
 C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
 C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
 C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
@@ -38,4 +39,3 @@ C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\obj\Debug\netcoreap
 C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\obj\Debug\netcoreapp3.1\lunchtime.dll
 C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\obj\Debug\netcoreapp3.1\lunchtime.pdb
 C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\obj\Debug\netcoreapp3.1\lunchtime.genruntimeconfig.cache
-C:\Users\jorge\Source\Jorgepinheirohub\LunchTime\Application\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll

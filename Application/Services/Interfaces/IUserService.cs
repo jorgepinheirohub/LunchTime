@@ -1,12 +1,15 @@
 using Application.Entities;
-using System;
+using System.Collections.Generic;
 using System.Threading.Tasks;
+using System;
 
 namespace Application.Services.Interfaces
 {
     public interface IUserService
     {
         Task<User> GetUserById(Guid id);
+
+        Task<IEnumerable<User>> GetUserList();
 
         Task<User> InsertUser(User user);
 

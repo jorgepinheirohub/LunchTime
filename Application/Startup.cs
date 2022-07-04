@@ -28,7 +28,7 @@ namespace lunchtime
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<DataContext>(o => o.UseSqlServer(Configuration.GetConnectionString("LocalDb")));
-            // services.AddScoped<>;
+            // services.AddScoped(IUserService, UserService);
             services.AddControllers();
         }
 
